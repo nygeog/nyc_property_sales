@@ -1,4 +1,4 @@
-# NYC Annualized Sales data BBL for Condos, Base and Billing
+# NYC Property Sales data BBL for Condos, Base and Billing
 
 **BBL** - Borough, Block and Lot, basically a Tax Parcel ID for New York City. 
 
@@ -10,7 +10,7 @@ The gist of a small yet important part of this data challenge was that the NYC A
 
 ## 1. Getting the NYC Annualized Sales data 2003-2014
 
-[Click here for a Python file to download xls files, read to dataframes and merge](https://github.com/nygeog/nyc_property_sales/blob/master/code/01-get-sales-data-and-merge.py). This will download both Rolling and Annualized Sales. We'll only look at the Annualized Sales. You'll need the following Python libraries installed:
+[Click here for a Python file to download xls files, read to dataframes and merge](https://github.com/nygeog/nyc_property_sales/blob/master/code/01-get-sales-data-and-merge.py). This will download both Rolling and Annualized Sales. We'll only look at the Annualized Sales but I have the Rolling Sales download code in there as well. You'll need the following Python libraries installed:
 
 * urllib
 * datetime

@@ -1,0 +1,25 @@
+# List of links for each year for Manhattan and Staten Island - consistencing is a problem with links 
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2014/2014_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2014/2014_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2013/2013_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2013/2013_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2012/2012_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2012/2012_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2011/2011_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2011/2011_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2010/2010_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2010/2010_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2009_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2009_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/09pdf/rolling_sales/sales_2008_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/pdf/09pdf/rolling_sales/sales_2008_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/excel/rolling_sales/sales_2007_manhattan.xls
+# http://www1.nyc.gov/assets/finance/downloads/excel/rolling_sales/sales_2007_statenisland.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_manhattan_06.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_si_06.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_manhattan_05.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_si_05.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_manhattan_04.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_si_04.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_manhattan_03.xls
+# http://www1.nyc.gov/assets/finance/downloads/sales_si_03.xls

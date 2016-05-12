@@ -75,6 +75,7 @@ for i in boroNameList:
 df_list  = []
 allCount = 0
 
+<<<<<<< HEAD
 #maybe get rid of this b/c only looking at annual sales
 for i, j in zip(boroNameList,boroList):
 	boroFiles = glob.glob(d+"input/rolling_sales/rollingsales_"+i+"_*.xls") #http://stackoverflow.com/questions/23430395/glob-search-files-in-date-order
@@ -110,11 +111,14 @@ allCount = 0
 
 #years        = xrange(2012, 2015)
 
+=======
+>>>>>>> origin/master
 for m in years:
 	n = str(m)
 	for i, j in zip(boroNameList,boroList):
 		print i, j, n
 		boroFiles = glob.glob(d+"input/annual_sales/"+n+"_"+i+"_*.xls") #http://stackoverflow.com/questions/23430395/glob-search-files-in-date-order
+		print boroFiles
 		boroFiles.sort(key=os.path.getmtime)
 		print("\n".join(boroFiles))
 		mostRecent = boroFiles[-1]

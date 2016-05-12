@@ -5,7 +5,7 @@ import glob
 import os
 
 #### THIS IS THE ONLY CODE YOU SHOULD NEED TO CHANGE, DEFINE YOUR WORKING DIRECTORY HERE
-workDir = '/Users/danielmsheehan/GIS/projects/property_sales/' #change to nyc_property_sales
+workDir = '/Users/danielmsheehan/GIS/projects/nyc_property_sales/' #change to nyc_property_sales
 #### THIS IS THE ONLY CODE YOU SHOULD NEED TO CHANGE, DEFINE YOUR WORKING DIRECTORY HERE
 
 d            = workDir + "data/"

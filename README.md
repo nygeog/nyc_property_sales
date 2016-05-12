@@ -10,9 +10,14 @@ The gist of a small yet important part of this data challenge was that the NYC A
 
 ## 1. Getting the NYC Annualized Sales data 2003-2014
 
-Show code for downloading and merging NYC annualized sales data. 
+[Click here for a Python file to download xls files, read to dataframes and merge](https://github.com/nygeog/nyc_property_sales/blob/master/code/01-get-sales-data-and-merge.py). This will download both Rolling and Annualized Sales. We'll only look at the Annualized Sales. You'll need the following Python libraries installed:
 
-	Show code excerpt or link to code
+* urllib
+* datetime
+* pandas
+* glob
+* os
+* xlrd (--upgrade this, as earlier versions ran into trouble with reading some apartment numbers as dates)
 
 ## 2. Matching on BBL
 
